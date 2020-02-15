@@ -20,40 +20,22 @@
     ],
     "paths": {
       "@ngrx/data": [
-        "../platform/modules/data"
-      ],
-      "@ngrx/data/*": [
-        "../platform/modules/data/*"
+        "dist/ngrx/data"
       ],
       "@ngrx/effects": [
-        "../platform/modules/effects"
-      ],
-      "@ngrx/effects/*": [
-        "../platform/modules/effects/*"
+        "dist/ngrx/effects"
       ],
       "@ngrx/entity": [
-        "../platform/modules/entity"
-      ],
-      "@ngrx/entity/*": [
-        "../platform/modules/entity/*"
+        "dist/ngrx/entity"
       ],
       "@ngrx/router-store": [
-        "../platform/modules/router-store"
-      ],
-      "@ngrx/router-store/*": [
-        "../platform/modules/router-store/*"
+        "dist/ngrx/router-store"
       ],
       "@ngrx/store": [
-        "../platform/modules/store"
-      ],
-      "@ngrx/store/*": [
-        "../platform/modules/store/*"
+        "dist/ngrx/store",
       ],
       "@ngrx/store-devtools": [
-        "../platform/modules/store-devtools"
-      ],
-      "@ngrx/store-devtools/*": [
-        "../platform/modules/store-devtools/*"
+        "dist/ngrx/store-devtools"
       ]
     }
   },
