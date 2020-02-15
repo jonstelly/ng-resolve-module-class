@@ -17,7 +17,45 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "@ngrx/data": [
+        "../ngrx-build/data"
+      ],
+      "@ngrx/data/*": [
+        "../ngrx-build/data/*"
+      ],
+      "@ngrx/effects": [
+        "../ngrx-build/effects"
+      ],
+      "@ngrx/effects/*": [
+        "../ngrx-build/effects/*"
+      ],
+      "@ngrx/entity": [
+        "../ngrx-build/entity"
+      ],
+      "@ngrx/entity/*": [
+        "../ngrx-build/entity/*"
+      ],
+      "@ngrx/router-store": [
+        "../ngrx-build/router-store"
+      ],
+      "@ngrx/router-store/*": [
+        "../ngrx-build/router-store/*"
+      ],
+      "@ngrx/store": [
+        "../ngrx-build/store"
+      ],
+      "@ngrx/store/*": [
+        "../ngrx-build/store/*"
+      ],
+      "@ngrx/store-devtools": [
+        "../ngrx-build/store-devtools"
+      ],
+      "@ngrx/store-devtools/*": [
+        "../ngrx-build/store-devtools/*"
+      ]
+    }
   },
   "angularCompilerOptions": {
     "fullTemplateTypeCheck": true,

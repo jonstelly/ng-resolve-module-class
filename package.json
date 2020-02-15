@@ -19,12 +19,6 @@
     "@angular/platform-browser": "~9.0.1",
     "@angular/platform-browser-dynamic": "~9.0.1",
     "@angular/router": "~9.0.1",
-    "@ngrx/data": "ngrx/data-builds#master",
-    "@ngrx/effects": "ngrx/effects-builds#master",
-    "@ngrx/entity": "ngrx/entity-builds#master",
-    "@ngrx/router-store": "ngrx/router-store-builds#master",
-    "@ngrx/store": "ngrx/store-builds#master",
-    "@ngrx/store-devtools": "ngrx/store-devtools-builds#master",
     "rxjs": "~6.5.4",
     "tslib": "^1.10.0",
     "zone.js": "~0.10.2"
