@@ -20,40 +20,40 @@
     ],
     "paths": {
       "@ngrx/data": [
-        "../ngrx-build/data"
+        "../platform/modules/data"
       ],
       "@ngrx/data/*": [
-        "../ngrx-build/data/*"
+        "../platform/modules/data/*"
       ],
       "@ngrx/effects": [
-        "../ngrx-build/effects"
+        "../platform/modules/effects"
       ],
       "@ngrx/effects/*": [
-        "../ngrx-build/effects/*"
+        "../platform/modules/effects/*"
       ],
       "@ngrx/entity": [
-        "../ngrx-build/entity"
+        "../platform/modules/entity"
       ],
       "@ngrx/entity/*": [
-        "../ngrx-build/entity/*"
+        "../platform/modules/entity/*"
       ],
       "@ngrx/router-store": [
-        "../ngrx-build/router-store"
+        "../platform/modules/router-store"
       ],
       "@ngrx/router-store/*": [
-        "../ngrx-build/router-store/*"
+        "../platform/modules/router-store/*"
       ],
       "@ngrx/store": [
-        "../ngrx-build/store"
+        "../platform/modules/store"
       ],
       "@ngrx/store/*": [
-        "../ngrx-build/store/*"
+        "../platform/modules/store/*"
       ],
       "@ngrx/store-devtools": [
-        "../ngrx-build/store-devtools"
+        "../platform/modules/store-devtools"
       ],
       "@ngrx/store-devtools/*": [
-        "../ngrx-build/store-devtools/*"
+        "../platform/modules/store-devtools/*"
       ]
     }
   },
